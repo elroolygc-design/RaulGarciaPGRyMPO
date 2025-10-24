@@ -23,7 +23,7 @@ public class Main {
         int num2;
 
         Operaciones entrada = new Operaciones();
-    
+
 
         Scanner input = new Scanner(System.in);
 
