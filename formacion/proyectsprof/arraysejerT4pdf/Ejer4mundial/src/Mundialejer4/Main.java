@@ -16,22 +16,24 @@ que un mismo equipo no puede jugar más de un partido
 */
 public class Main {
     public static void main(String[] args) {
-        Scanner entradaDatos = new Scanner(System.in);
-
-        String[] bombo1 = new String[5];
-        String[] bombo2 = new String[5];
-        for (int i = 0; i < bombo1.length; i++) {
-            System.out.println("Equipos del primer bombo: ");
-            bombo1[i] = entradaDatos.nextLine();
+        Scanner entradaDatos = new Scanner(System.in); //La funcion que permite la entrada de datos
+        //La variables arrays de tipo string.
+        String[] bombo1 = new String[5]; //El primer bombo de paises.
+        String[] bombo2 = new String[5]; //El segundo bombo de paises.
+        //Los bucles:
+        for (int i = 0; i < bombo1.length; i++) { //El bucle del primer bombo de 5 huecos marcado por los arrays.
+            System.out.println("Equipos del primer bombo: "); //La interfaz de la entrada de datos del primer bombo.
+            bombo1[i] = entradaDatos.nextLine(); //La entrada de datos del primer bombo.
         }
-        for (int i = 0; i < bombo2.length; i++) {
-            System.out.println("Equipos del Segundo bombo: ");
-            bombo2[i] = entradaDatos.nextLine();
+        for (int i = 0; i < bombo2.length; i++) { //El bucle del segundo bombo de 5 huecos marcado por los arrays.
+            System.out.println("Equipos del Segundo bombo: "); //La interfaz de la entrada de datos del segundo bombo.
+            bombo2[i] = entradaDatos.nextLine(); //La entrada de datos del segundo bombo.
         }
+        //Resultados:
         System.out.println("Los equipos del primer bombo: "+Arrays.toString(bombo1));
         System.out.println("Los equipos del segundo bombo: "+Arrays.toString(bombo2));
 
-        //Emparejamiento
+        //Resultados del Emparejamiento:
         for (int i = 0; i < bombo1.length; i++) {
             System.out.println("emparejamiento: "+bombo1[i]+ "-" +bombo2[i]);
         }
