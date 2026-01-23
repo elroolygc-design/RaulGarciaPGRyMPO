@@ -1,9 +1,7 @@
 package model;
 
 
-import lombok.Data;
 
-@Data
 
 public class Coche {
     private String marca, modelo, bastidor, color;
