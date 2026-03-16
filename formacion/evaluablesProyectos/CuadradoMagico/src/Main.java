@@ -22,7 +22,7 @@ public class Main {
                 System.out.println("Entrada no válida. Debes introducir un número entero y solo el 3, o el 4.\n");
             }
         }
-        //Conexión con Cuadradomagico.
+        //Conexión con Cuadradomagico. 
         Cuadradomagico cuadrado = new Cuadradomagico(num);
         cuadrado.buscarCuadradoMagico();
     }

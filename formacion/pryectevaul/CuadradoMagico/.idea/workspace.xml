@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb0eb1bb-1391-48f8-be64-68b6a67bab76" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/arrayslistejer/cocheslistarrays/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/arrayslistejer/cocheslistarrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/arrayslistejer/cocheslistarrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/arrayslistejer/cocheslistarrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/arrayslistejer/cocheslistarrays/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/arrayslistejer/cocheslistarrays/cocheslistarrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/arrayslistejer/cocheslistarrays/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/arrayslistejer/cocheslistarrays/src/ejercoches/Coches.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer3ifmultveinte/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer3ifmultveinte/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer3ifmultveinte/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer3ifmultveinte/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer3ifmultveinte/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer3ifmultveinte/Ejer3ifmultveinte.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer3ifmultveinte/src/ejer3veintemult/Ejer3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer3ifmultveinte/src/ejer3veintemult/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer4bisiesto/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer4bisiesto/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer4bisiesto/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer4bisiesto/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer4bisiesto/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer4bisiesto/Ejer4bisiesto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer4bisiesto/src/Ejer4bi/Ejer4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conelif/Ejer4bisiesto/src/Ejer4bi/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conoperadores/EntradaClasesCal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conoperadores/EntradaClasesCal/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conoperadores/EntradaClasesCal/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conoperadores/EntradaClasesCal/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conoperadores/EntradaClasesCal/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conoperadores/EntradaClasesCal/EntradaClasesCal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conoperadores/EntradaClasesCal/src/YoEntradaCal/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conoperadores/EntradaClasesCal/src/YoEntradaCal/Operaciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conswitch/Ejer10switchprod/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conswitch/Ejer10switchprod/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conswitch/Ejer10switchprod/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conswitch/Ejer10switchprod/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conswitch/Ejer10switchprod/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conswitch/Ejer10switchprod/Ejer10switchprod.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conswitch/Ejer10switchprod/src/Ejer10swith/Ejer4s.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/conswitch/Ejer10switchprod/src/Ejer10swith/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/forejers/Ejer9Sueldos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/forejers/Ejer9Sueldos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/forejers/Ejer9Sueldos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/forejers/Ejer9Sueldos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/forejers/Ejer9Sueldos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/forejers/Ejer9Sueldos/Ejer9Sueldos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/forejers/Ejer9Sueldos/src/SueldosEjer9/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/forejers/Ejer9Sueldos/src/SueldosEjer9/Sueldos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/whileanddoejer/Ejer3whilemayornumero/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/whileanddoejer/Ejer3whilemayornumero/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/whileanddoejer/Ejer3whilemayornumero/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/whileanddoejer/Ejer3whilemayornumero/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/whileanddoejer/Ejer3whilemayornumero/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/whileanddoejer/Ejer3whilemayornumero/Ejer3whilemayornumero.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/whileanddoejer/Ejer3whilemayornumero/src/Ejer3mayornumero/Ejer3whiled.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejerciciosyproclase/whileanddoejer/Ejer3whilemayornumero/src/Ejer3mayornumero/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyectsprof/arraysejerT4pdf/Ejer4mundial/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyectsprof/arraysejerT4pdf/Ejer4mundial/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyectsprof/arraysejerT4pdf/Ejer4mundial/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyectsprof/arraysejerT4pdf/Ejer4mundial/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyectsprof/arraysejerT4pdf/Ejer4mundial/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyectsprof/arraysejerT4pdf/Ejer4mundial/Ejer4mundial.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyectsprof/arraysejerT4pdf/Ejer4mundial/src/Mundialejer4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyectsprof/buclesejerT3pdf/Dardosejer4pdf/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyectsprof/buclesejerT3pdf/Dardosejer4pdf/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyectsprof/buclesejerT3pdf/Dardosejer4pdf/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyectsprof/buclesejerT3pdf/Dardosejer4pdf/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyectsprof/buclesejerT3pdf/Dardosejer4pdf/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyectsprof/buclesejerT3pdf/Dardosejer4pdf/Dardosejer4pdf.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyectsprof/buclesejerT3pdf/Dardosejer4pdf/src/Ejer4dardo/Dardos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyectsprof/buclesejerT3pdf/Dardosejer4pdf/src/Ejer4dardo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Carreradecoches.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Carreradecoches/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Carreradecoches/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Carreradecoches/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Carreradecoches/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Carreradecoches/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Carreradecoches/Carreradecoches.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Carreradecoches/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Carreradecoches/src/controller/CampeonatoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Carreradecoches/src/controller/CarreraController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Carreradecoches/src/ejercicio/Campeonato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Carreradecoches/src/ejercicio/Carrera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Carreradecoches/src/ejercicio/Coche.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CuadradoMagico.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuadradoMagico.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cuadradomagico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Raúl_García_Cañizares.docx.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;elroolygc-design&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/elroolygc-design/RaulGarciaPGRyMPO.git&quot;,
+    &quot;accountId&quot;: &quot;51bd020d-5aa8-4e87-a3c9-00cf0c4c935e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="38nm7DT9vthukx9ks2LlZzqVP5f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Admin/DAMbip/Formacion/GITHUB/RaulGarciaPGRyMPO/formacion/pryectevaul/CuadradoMagico/src/Main.java&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb0eb1bb-1391-48f8-be64-68b6a67bab76" name="Changes" comment="" />
+      <created>1769443542920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769443542920</updated>
+    </task>
+    <servers />
+  </component>
+</project>
